@@ -64,9 +64,9 @@ Read more on **[Hashnode](https://denish.hashnode.dev)**!
 
 <br/>
 
-## Community & Open Source
-### Contributor | **GirlScript Summer of Code 2024 - Extended Edition**
-### Volunteer | **Cloud Native Community Gurugram**
+## 🌍 Community & Open Source
+ - Contributor | **GirlScript Summer of Code 2024 - Extended Edition**
+ - Volunteer | **Cloud Native Community Gurugram**
 
 <br/>
 
