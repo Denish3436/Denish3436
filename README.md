@@ -72,9 +72,9 @@ Read more on **[Hashnode](https://denish.hashnode.dev)**!
 
 ## Connect with Me
 <div align="left">
-<a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" /></a>
-<a href="https://www.linkedin.com/in/yourusername/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" /></a>
-<a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://yourusername.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" /></a>
-<a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+<a href="https://github.com/Denish3436" target="_blank"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" /></a>
+<a href="https://www.linkedin.com/in/denish-tomar-871354287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" /></a>
+<a href="mailto:denishtomar3436@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://denish.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" /></a>
+<a href="https://x.com/Denish3436" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
 </div>
