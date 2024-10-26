@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Denish Tomar </h1>
 
 
-Welcome to my corner of GitHub! 🎉 I’m a *3rd-year Computer Science Engineering student* at IET, Bundelkhand University, Jhansi, with a passion for **DevOps** and **cloud-native technologies** . When I’m not busy cracking code or experimenting with new tech, you’ll find me contributing to **open-source projects**, building cool **cloud-native applications**, or sharing my journey through **tech blogs**. Excited to connect and create amazing things together! 🌟 🚀
+Welcome to my corner of GitHub! 🎉 I’m a *3rd-year Computer Science Engineering student* at IET, Bundelkhand University, Jhansi, with a passion for **DevOps** and **cloud-native technologies** . When I’m not busy cracking code or experimenting with new tech, you’ll find me contributing to **open-source projects**, building cool **cloud-native Projects**, or sharing my journey through **tech blogs**. Excited to connect and create amazing things together! 🌟 🚀
 
 <br/>
 
