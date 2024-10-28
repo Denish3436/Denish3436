@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">🧰 My Toolbox</h2>
-<p align="center">Here are some tools and technologies I work with:</p>
+<p align="center"> <b> Here are some tools and technologies I work with: </b></p>
 
 <h3 align="center">🖥️ Programming Languages</h3>
 <p align="center">
@@ -49,7 +49,7 @@
     - <b>Tech insights</b> with easy-to-follow guides<br>
 </p>
 
-<p align="center">Read more on <a href="https://denish.hashnode.dev"><b>Hashnode</b></a>!</p>
+<p>Read more on <a href="https://denish.hashnode.dev"><b>Hashnode</b></a>!</p>
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
