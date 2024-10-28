@@ -9,10 +9,10 @@
 </p>
 
 <h2 align="center">🧰 My Toolbox</h2>
-<p align="center"> <b> Here are some tools and technologies I work with: </b></p>
+<p> <b> Here are some tools and technologies I work with: </b></p>
 
-<h3 align="center">🖥️ Programming Languages</h3>
-<p align="center">
+<h3>🖥️ Programming Languages</h3>
+<p>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -22,8 +22,8 @@
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
 </p>
 
-<h3 align="center">☁️ Cloud & DevOps</h3>
-<p align="center">
+<h3>☁️ Cloud & DevOps</h3>
+<p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
     <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white" alt="Amazon EKS">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
@@ -34,8 +34,8 @@
     <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
 </p>
 
-<h3 align="center">🛠️ Tools & Platforms</h3>
-<div align="center">
+<h3>🛠️ Tools & Platforms</h3>
+<div>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
