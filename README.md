@@ -64,12 +64,6 @@ Read more on **[Hashnode](https://denish.hashnode.dev)**!
 
 <br/>
 
-## 🌍 Community & Open Source
- - Contributor | **GirlScript Summer of Code 2024 - Extended Edition**
- - Volunteer | **Cloud Native Community Gurugram**
-
-<br/>
-
 ## Connect with Me
 <div align="left">
 <a href="https://github.com/Denish3436" target="_blank"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" /></a>
