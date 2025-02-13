@@ -2,7 +2,6 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p>
-    🎓 <b>B.Tech in Computer Science</b> | Expected May 2026<br>
     🚀 <b>DevRel 🥑 at Qumulus</b><br>
     🌱 <b>Currently Learning:</b> Advanced Go, Cloud Infrastructure, DevOps best practices<br>
     ✍️ <b>Tech Blogger:</b> Cloud-Native tech, DevOps, open-source contributions<br>
