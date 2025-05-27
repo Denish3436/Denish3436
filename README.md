@@ -1,15 +1,15 @@
 <h1 align="center">Hey there 👋, I'm Denish Tomar</h1>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center"> About Me</h2>
 <p>
-    🚀 <b>DevRel 🥑 at Qumulus</b><br>
-    🌱 <b>Currently Learning:</b> Advanced Go, Cloud Infrastructure, DevOps best practices<br>
-    ✍️ <b>Tech Blogger:</b> Cloud-Native tech, DevOps, open-source contributions<br>
-    🧩 <b>Fun Fact:</b> Obsessed with automation – the fewer manual steps, the better! 😄<br>
-    🏆 <b>Hacktoberfest '24:</b> Proud participant
+   - <b>DevRel intern🥑 at Qumulus</b><br>
+   - <b>Currently Learning:</b> Advanced Go, Cloud Infrastructure, DevOps best practices<br>
+   - <b>Tech Blogger:</b> Cloud-Native tech, DevOps, open-source contributions<br>
+   - <b>Fun Fact:</b> Obsessed with automation – the fewer manual steps, the better! 😄<br>
+   - <b>Hacktoberfest '24:</b> Proud participant
 </p>
 
-<h2 align="center">🧰 My Toolbox</h2>
+<h2 align="center">My Toolbox</h2>
 <p> <b> Here are some tools and technologies I work with: </b></p>
 
 <h3>🖥️ Programming Languages</h3>
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </div>
 
-<h2 align="center">✍️ Blog Zone: Sharing is Caring!</h2>
+<h2 align="center">Blog Zone!</h2>
 <p>
     I write blogs on <b>Cloud-Native</b>, <b>DevOps</b>, and <b>Open-Source</b> to make learning fun and accessible:<br>
     - <b>DevOps practices</b> & <b>Cloud-Native</b> tutorials<br>
