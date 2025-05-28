@@ -49,8 +49,6 @@
     - <b>Tech insights</b> with easy-to-follow guides<br>
 </p>
 
-<p>Read more on <a href="https://denish.hashnode.dev"><b>Hashnode</b></a>!</p>
-
 <h2 align="center">Connect with Me</h2>
 <p align="center">
     <a href="https://github.com/Denish3436" target="_blank"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" /></a>
